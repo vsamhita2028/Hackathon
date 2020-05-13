@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\AndroidStudioProjects\\StoreLocator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\37c6d7e966fa38483147f6acd74dcad9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
