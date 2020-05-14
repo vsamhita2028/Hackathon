@@ -1291,6 +1291,7 @@ id dimensions
 id direct
 id disableHome
 id distance_num_tv
+id done
 id dotslayout
 id edit_query
 id emoji
@@ -1464,6 +1465,7 @@ id unlabeled
 id up
 id upper_view
 id useLogo
+id user
 id viewPager
 id view_offset_helper
 id visible

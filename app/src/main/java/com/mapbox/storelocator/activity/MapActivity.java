@@ -67,7 +67,6 @@ import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.iconIgnorePlacem
 import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.iconImage;
 import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.lineColor;
 import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.lineWidth;
-import static com.mapbox.storelocator.util.StringConstants.SELECTED_THEME;
 
 /**
  * Activity with a Mapbox map and recyclerview to view various locations
@@ -102,8 +101,7 @@ public class MapActivity extends AppCompatActivity implements
   protected void onCreate(Bundle savedInstanceState) {
     requestWindowFeature(Window.FEATURE_NO_TITLE);
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_theme_picker);
-    setUpButtonClickListeners();
+
 
     // Configure the Mapbox access token. Configuration can either be called in your application
     // class or in the same activity which contains the mapview.
@@ -128,7 +126,7 @@ public class MapActivity extends AppCompatActivity implements
     listOfIndividualLocations = new ArrayList<>();
 
     // Initialize the theme that was selected in the previous activity. The blue theme is set as the backup default.
-    chosenTheme = getIntent().getIntExtra(SELECTED_THEME, R.style.AppTheme_Blue);
+    chosenTheme = R.style.AppTheme_Blue;
 
     // Set up the Mapbox map
     mapView = findViewById(R.id.mapView);
@@ -231,9 +229,7 @@ public class MapActivity extends AppCompatActivity implements
       }
     });
   }
-  private int setUpButtonClickListeners() {
-   return R.style.AppTheme_Blue;
-  }
+
 
   private void showBuildingExtrusions() {
     // Use the Mapbox building plugin to display and customize the opacity/color of building extrusions
