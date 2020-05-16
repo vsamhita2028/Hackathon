@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\AndroidStudioProjects\\StoreLocator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\86156aa3bbb6e44d5f3f404d127921ce\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\413463e8d9c3c09e85476e7a198fee45\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\37c6d7e966fa38483147f6acd74dcad9\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a0ba2821baad127604905bb3957fb309\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

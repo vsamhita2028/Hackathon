@@ -14,6 +14,7 @@
         android:theme="@style/AppTheme.Gray">
         <activity
             android:name=".activity.MapActivity"/>
+
         <activity
             android:name=".MainActivity">
         <intent-filter>

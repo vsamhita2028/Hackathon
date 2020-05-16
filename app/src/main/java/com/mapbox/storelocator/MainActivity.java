@@ -16,7 +16,6 @@ import android.os.Build;
 import com.mapbox.storelocator.activity.MapActivity;
 
 import static android.app.PendingIntent.getActivity;
-import static com.mapbox.mapboxsdk.Mapbox.getApplicationContext;
 
 
 public class MainActivity extends AppCompatActivity {

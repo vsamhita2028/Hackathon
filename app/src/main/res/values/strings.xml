@@ -2,7 +2,7 @@
     <string name="final_app_name">Store Locator</string>
     <string name="access_token" translatable="false">pk.eyJ1IjoicG93ZXJwdWZmZ2lybHNzIiwiYSI6ImNrYTEycGZsZDFxcXgzbm1yNzlzNTZ4MTAifQ.oY34Pnh6FT6y5aC9z1Klug</string>
     <string name="purple_map_style" translatable="false">mapbox://styles/mapbox/cj7bww7is2f4i2rnwyxkzpwu7</string>
-    <string name="blue_map_style" translatable="false">mapbox://styles/mapbox/cj7bwwv3caf7l2spgukxm8bwv</string>
+    <string name="blue_map_style" translatable="false">mapbox://styles/powerpuffgirlss/cka7c9t2s18ca1iqunftsku9m</string>
     <string name="terminal_map_style" translatable="false">mapbox://styles/mapbox/cj62n87yx3mvi2rp93sfp2w9z</string>
     <string name="map_view">Map view</string>
     <string name="failure_to_load_file">Failure to load the local file of locations. Please try reloading the app.</string>

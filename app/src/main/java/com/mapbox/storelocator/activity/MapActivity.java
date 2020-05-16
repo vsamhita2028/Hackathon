@@ -20,6 +20,8 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.mapbox.android.core.permissions.PermissionsListener;
+import com.mapbox.android.core.permissions.PermissionsManager;
 import com.mapbox.api.directions.v5.DirectionsCriteria;
 import com.mapbox.api.directions.v5.MapboxDirections;
 import com.mapbox.api.directions.v5.models.DirectionsResponse;
@@ -33,6 +35,10 @@ import com.mapbox.mapboxsdk.camera.CameraPosition;
 import com.mapbox.mapboxsdk.camera.CameraUpdateFactory;
 import com.mapbox.mapboxsdk.geometry.LatLng;
 import com.mapbox.mapboxsdk.geometry.LatLngBounds;
+import com.mapbox.mapboxsdk.location.LocationComponent;
+import com.mapbox.mapboxsdk.location.LocationComponentActivationOptions;
+import com.mapbox.mapboxsdk.location.modes.CameraMode;
+import com.mapbox.mapboxsdk.location.modes.RenderMode;
 import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;
 import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
@@ -72,14 +78,15 @@ import static com.mapbox.mapboxsdk.style.layers.PropertyFactory.lineWidth;
  * Activity with a Mapbox map and recyclerview to view various locations
  */
 public class MapActivity extends AppCompatActivity implements
-  LocationRecyclerViewAdapter.ClickListener, MapboxMap.OnMapClickListener {
+        LocationRecyclerViewAdapter.ClickListener, MapboxMap.OnMapClickListener, PermissionsListener {
 
 
-  private static final LatLngBounds LOCKED_MAP_CAMERA_BOUNDS = new LatLngBounds.Builder()
-    .include(new LatLng(40.87096725853152, -74.08277394720501))
-    .include(new LatLng(40.67035340371385,
-      -73.87063900287112)).build();
-  private static final LatLng MOCK_DEVICE_LOCATION_LAT_LNG = new LatLng(40.713469, -74.006735);
+  /*private static final LatLngBounds LOCKED_MAP_CAMERA_BOUNDS = new LatLngBounds.Builder()
+    .include(new LatLng(12.970, 80.381))
+
+          .include(new LatLng(13.258,
+            80.159)).build();*/
+  //private static final LatLng MOCK_DEVICE_LOCATION_LAT_LNG = new LatLng(13.151201, 80.298309);
   private static final int MAPBOX_LOGO_OPACITY = 75;
   private static final int CAMERA_MOVEMENT_SPEED_IN_MILSECS = 1200;
   private static final float NAVIGATION_LINE_WIDTH = 9;
@@ -96,6 +103,7 @@ public class MapActivity extends AppCompatActivity implements
   private LocationRecyclerViewAdapter styleRvAdapter;
   private int chosenTheme;
   private String TAG = "MapActivity";
+    private PermissionsManager permissionsManager;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -138,7 +146,8 @@ public class MapActivity extends AppCompatActivity implements
         // Initialize the custom class that handles marker icon creation and map styling based on the selected theme
         customThemeManager = new CustomThemeManager(chosenTheme, MapActivity.this);
 
-        mapboxMap.setStyle(new Style.Builder().fromUrl(customThemeManager.getMapStyle()), new Style.OnStyleLoaded() {
+          mapboxMap.setStyle(new Style.Builder().fromUri("mapbox://styles/mapbox/cjerxnqt3cgvp2rmyuxbeqme7"),
+                  new Style.OnStyleLoaded() {
           @Override
           public void onStyleLoaded(@NonNull Style style) {
 
@@ -149,8 +158,8 @@ public class MapActivity extends AppCompatActivity implements
             ImageView logo = mapView.findViewById(R.id.logoView);
             logo.setAlpha(MAPBOX_LOGO_OPACITY);
 
-            // Set bounds for the map camera so that the user can't pan the map outside of the NYC area
-            mapboxMap.setLatLngBoundsForCameraTarget(LOCKED_MAP_CAMERA_BOUNDS);
+            // Set bounds for the map camera so that the user can't pan the macustop outside of the NYC area
+            //mapboxMap.setLatLngBoundsForCameraTarget(LOCKED_MAP_CAMERA_BOUNDS);
 
             // Set up the SymbolLayer which will show the icons for each store location
             initStoreLocationIconSymbolLayer();
@@ -204,7 +213,7 @@ public class MapActivity extends AppCompatActivity implements
 
                 // Call getInformationFromDirectionsApi() to eventually display the location's
                 // distance from mocked device location
-                getInformationFromDirectionsApi(singleLocationPosition, false, x);
+                //getInformationFromDirectionsApi(singleLocationPosition, false, x);
               }
               // Add the fake device location marker to the map. In a real use case scenario,
               // the Maps SDK's LocationComponent can be used to easily display and customize
@@ -241,6 +250,7 @@ public class MapActivity extends AppCompatActivity implements
 
   @Override
   public boolean onMapClick(@NonNull LatLng point) {
+      LocationComponent locationComponent = mapboxMap.getLocationComponent();
     handleClickIcon(mapboxMap.getProjection().toScreenLocation(point));
     return true;
   }
@@ -260,7 +270,8 @@ public class MapActivity extends AppCompatActivity implements
           } else {
             setSelected(i);
           }
-          if (selectedFeaturePoint.latitude() != MOCK_DEVICE_LOCATION_LAT_LNG.getLatitude()) {
+
+
             for (int x = 0; x < featureCollection.features().size(); x++) {
 
               if (listOfIndividualLocations.get(x).getLocation().getLatitude() == selectedFeaturePoint.latitude()) {
@@ -268,7 +279,7 @@ public class MapActivity extends AppCompatActivity implements
                 // the mock device location marker is part of the marker list but doesn't have its own card
                 // in the actual recyclerview.
                 locationsRecyclerView.smoothScrollToPosition(x);
-              }
+
             }
           }
         } else {
@@ -315,7 +326,7 @@ public class MapActivity extends AppCompatActivity implements
     if (deviceHasInternetConnection()) {
       // Start call to the Mapbox Directions API
       if (selectedLocation != null) {
-        getInformationFromDirectionsApi(selectedLocationPoint, true, null);
+        //getInformationFromDirectionsApi(selectedLocationPoint, true, null);
       }
     } else {
       Toast.makeText(this, R.string.no_internet_message, Toast.LENGTH_LONG).show();
@@ -422,10 +433,12 @@ public class MapActivity extends AppCompatActivity implements
     }
   }
 
-  private void getInformationFromDirectionsApi(Point destinationPoint,
+  /*private void getInformationFromDirectionsApi(Point destinationPoint,
                                                final boolean fromMarkerClick, @Nullable final Integer listIndex) {
     // Set up origin and destination coordinates for the call to the Mapbox Directions API
-    Point mockCurrentLocation = Point.fromLngLat(MOCK_DEVICE_LOCATION_LAT_LNG.getLongitude(),
+      LocationComponent locationComponent = mapboxMap.getLocationComponent();
+
+      Point mockCurrentLocation = Point.fromLngLat(mapboxMap.getLocationComponent().getLongitude(),
       MOCK_DEVICE_LOCATION_LAT_LNG.getLatitude());
 
     Point destinationMarker = Point.fromLngLat(destinationPoint.longitude(), destinationPoint.latitude());
@@ -474,7 +487,7 @@ public class MapActivity extends AppCompatActivity implements
         Toast.makeText(MapActivity.this, R.string.failure_to_retrieve, Toast.LENGTH_LONG).show();
       }
     });
-  }
+  }*/
 
   private void repositionMapCamera(Point newTarget) {
     CameraPosition newCameraPosition = new CameraPosition.Builder()
@@ -486,22 +499,27 @@ public class MapActivity extends AppCompatActivity implements
   private void addMockDeviceLocationMarkerToMap() {
     // Add the fake user location marker to the map
     Style style = mapboxMap.getStyle();
-    if (style != null) {
-      // Add the icon image to the map
-      style.addImage("mock-device-location-icon-id", customThemeManager.getMockLocationIcon());
+      if (PermissionsManager.areLocationPermissionsGranted(this)) {
 
-      style.addSource(new GeoJsonSource("mock-device-location-source-id", Feature.fromGeometry(
-        Point.fromLngLat(MOCK_DEVICE_LOCATION_LAT_LNG.getLongitude(), MOCK_DEVICE_LOCATION_LAT_LNG.getLatitude()))));
+// Get an instance of the component
+          LocationComponent locationComponent = mapboxMap.getLocationComponent();
 
-      style.addLayer(new SymbolLayer("mock-device-location-layer-id",
-        "mock-device-location-source-id").withProperties(
-        iconImage("mock-device-location-icon-id"),
-        iconAllowOverlap(true),
-        iconIgnorePlacement(true)
-      ));
-    } else {
-      throw new IllegalStateException("Style isn't ready yet.");
-    }
+// Activate with options
+          locationComponent.activateLocationComponent(
+                  LocationComponentActivationOptions.builder(this, style).build());
+
+// Enable to make component visible
+          locationComponent.setLocationComponentEnabled(true);
+
+// Set the component's camera mode
+          locationComponent.setCameraMode(CameraMode.TRACKING);
+
+// Set the component's render mode
+          locationComponent.setRenderMode(RenderMode.COMPASS);
+      } else {
+          permissionsManager = new PermissionsManager(this);
+          permissionsManager.requestLocationPermissions(this);
+      }
   }
 
   private void getFeatureCollectionFromJson() throws IOException {
@@ -616,7 +634,17 @@ public class MapActivity extends AppCompatActivity implements
     return activeNetwork != null && activeNetwork.isConnected();
   }
 
-  /**
+    @Override
+    public void onExplanationNeeded(List<String> permissionsToExplain) {
+
+    }
+
+    @Override
+    public void onPermissionResult(boolean granted) {
+
+    }
+
+    /**
    * Custom class which creates marker icons and colors based on the selected theme
    */
   class CustomThemeManager {
