@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837524145044",
+    "firebase_url": "https://storelocator-64887.firebaseio.com",
+    "project_id": "storelocator-64887",
+    "storage_bucket": "storelocator-64887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837524145044:android:30535a8ac7aee4d6cc0581",
+        "android_client_info": {
+          "package_name": "com.mapbox.storefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837524145044-14652l1qmb10sj99u8j70vgkva74fcmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapbox.storefinder",
+            "certificate_hash": "9f17170ed0a5974965d1a20d37872cf086c7a0ec"
+          }
+        },
+        {
+          "client_id": "837524145044-83vd3qo8i0rrtj23sugpd57ek0ubll8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcWIGxB3k-baKli39wbJ_6K5RVSTn2k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837524145044-83vd3qo8i0rrtj23sugpd57ek0ubll8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

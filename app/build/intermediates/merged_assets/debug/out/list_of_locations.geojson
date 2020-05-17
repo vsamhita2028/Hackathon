@@ -1,0 +1,305 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gayathri Grocery",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.154916,13.151201
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Anytime Grocery",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.154916,13.033606
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Grocery Xpert",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.207562,13.029125
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25293,13.005375
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.195951,12.920857
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.232806,12.902596
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.253499,13.086025
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24541,13.0465
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.295022,13.136049
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.226337,12.978326
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.153335,12.95037
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.146802,12.947449
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.193318,13.068113
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.192308,13.084464
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15822,13.016122
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.119628,13.074611
+        ]
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.208773,12.936187
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.211096,12.938191
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.312747,13.183951
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Location 1",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "Location #1 description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.255756,13.093714
+        ]
+      }
+    }
+    ]
+}

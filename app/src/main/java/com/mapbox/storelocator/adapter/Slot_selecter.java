@@ -112,7 +112,7 @@ public class Slot_selecter extends AppCompatActivity {
 
                     }
                 });
-                //update();
+                update();
 
             }
         });
