@@ -1,15 +1,21 @@
 package com.mapbox.storelocator.activity;
 
+import android.Manifest;
 import android.content.Context;
+import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.PointF;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearSnapHelper;
 import android.support.v7.widget.RecyclerView;
@@ -47,6 +53,7 @@ import com.mapbox.mapboxsdk.plugins.building.BuildingPlugin;
 import com.mapbox.mapboxsdk.style.layers.LineLayer;
 import com.mapbox.mapboxsdk.style.layers.SymbolLayer;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonSource;
+import com.mapbox.storelocator.MainActivity;
 import com.mapbox.storelocator.R;
 import com.mapbox.storelocator.adapter.LocationRecyclerViewAdapter;
 import com.mapbox.storelocator.model.IndividualLocation;
@@ -109,6 +116,7 @@ public class MapActivity extends AppCompatActivity implements
   protected void onCreate(Bundle savedInstanceState) {
     requestWindowFeature(Window.FEATURE_NO_TITLE);
     super.onCreate(savedInstanceState);
+
 
 
     // Configure the Mapbox access token. Configuration can either be called in your application
@@ -240,6 +248,8 @@ public class MapActivity extends AppCompatActivity implements
   }
 
 
+
+
   private void showBuildingExtrusions() {
     // Use the Mapbox building plugin to display and customize the opacity/color of building extrusions
     BuildingPlugin buildingPlugin = new BuildingPlugin(mapView, mapboxMap, mapboxMap.getStyle());
@@ -249,7 +259,7 @@ public class MapActivity extends AppCompatActivity implements
   }
 
   @Override
-  public boolean onMapClick(@NonNull LatLng point) {
+ public boolean onMapClick(@NonNull LatLng point) {
       LocationComponent locationComponent = mapboxMap.getLocationComponent();
     handleClickIcon(mapboxMap.getProjection().toScreenLocation(point));
     return true;
@@ -333,7 +343,8 @@ public class MapActivity extends AppCompatActivity implements
     }
   }
 
-  /**
+
+    /**
    * Adds a SymbolLayer which will show all of the location's icons
    */
   private void initStoreLocationIconSymbolLayer() {
@@ -560,14 +571,14 @@ public class MapActivity extends AppCompatActivity implements
     snapHelper.attachToRecyclerView(locationsRecyclerView);
   }
 
-  private void drawNavigationPolylineRoute(DirectionsRoute route) {
+  /*private void drawNavigationPolylineRoute(DirectionsRoute route) {
     // Retrieve and update the source designated for showing the store location icons
     GeoJsonSource source = mapboxMap.getStyle().getSourceAs("navigation-route-source-id");
     if (source != null) {
       source.setGeoJson(FeatureCollection.fromFeature(Feature.fromGeometry(
         LineString.fromPolyline(route.geometry(), PRECISION_6))));
     }
-  }
+  }*/
 
   private void initNavigationPolylineLineLayer() {
     // Create and add the GeoJsonSource to the map

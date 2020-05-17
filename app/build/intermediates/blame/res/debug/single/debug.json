@@ -2772,6 +2772,10 @@
         "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\a035055df5d59b287bdd1d418c84cc11\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\AndroidStudioProjects\\StoreLocator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store_selector.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\AndroidStudioProjects\\StoreLocator\\app\\src\\main\\res\\layout\\activity_store_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\AndroidStudioProjects\\StoreLocator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\413463e8d9c3c09e85476e7a198fee45\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },

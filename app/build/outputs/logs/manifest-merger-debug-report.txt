@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\413463e8d9c3c09e85476e7a198fee45\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a0ba2821baad127604905bb3957fb309\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\342662c14fcb0ce95a67dd55e2f91c59\AndroidManifest.xml:17:1-22:12
@@ -50,20 +50,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\samhita vetcha
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\089a091d07743eb42293b33964f3e010\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\08acdd71f3982f9b2ac0c4cafa29ddc0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\mapbox-android-core-1.3.0.aar\b197484f16cf8066978ddca5bf792be1\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:3:11-44
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:2:11-69
@@ -88,7 +88,7 @@ MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\samhita ve
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:8:5-26:19
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:8:5-29:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\413463e8d9c3c09e85476e7a198fee45\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\413463e8d9c3c09e85476e7a198fee45\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45639a534ffc84f0e285172147099ad9\AndroidManifest.xml:9:5-20
@@ -127,20 +127,24 @@ activity#com.mapbox.storelocator.activity.MapActivity
 ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:15:9-16:51
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:16:13-49
+activity#com.mapbox.storelocator.adapter.Slot_selecter
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:17:9-18:52
+	android:name
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:18:13-50
 activity#com.mapbox.storelocator.MainActivity
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:18:9-25:20
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:21:9-28:20
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:20:9-24:25
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:23:9-27:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:21:13-65
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:21:21-62
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:23:13-73
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:26:13-73
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:23:23-70
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml:26:23-70
 uses-sdk
 INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\AndroidStudioProjects\StoreLocator\app\src\main\AndroidManifest.xml

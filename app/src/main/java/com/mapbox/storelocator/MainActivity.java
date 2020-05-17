@@ -87,11 +87,8 @@ public class MainActivity extends AppCompatActivity {
             finish();
         }
     }
-    private boolean restorePrefData(){
-        SharedPreferences pref = getApplicationContext().getSharedPreferences("myPref",MODE_PRIVATE);
-        Boolean isopend = pref.getBoolean("IntroOpened",false);
-        return isopend;
-    }
+
+
 
 
 }

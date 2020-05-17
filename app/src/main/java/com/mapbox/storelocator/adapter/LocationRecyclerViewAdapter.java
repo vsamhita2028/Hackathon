@@ -1,6 +1,7 @@
 package com.mapbox.storelocator.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.support.constraint.ConstraintLayout;
 import android.support.v4.content.res.ResourcesCompat;
@@ -9,15 +10,19 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.mapbox.storelocator.R;
+import com.mapbox.storelocator.activity.MapActivity;
 import com.mapbox.storelocator.model.IndividualLocation;
 
 import java.util.List;
 
+import static android.support.v4.content.ContextCompat.startActivity;
 import static com.mapbox.mapboxsdk.Mapbox.getApplicationContext;
 
 /**
@@ -42,6 +47,8 @@ public class LocationRecyclerViewAdapter extends
   private int locationHoursHeaderColor = 0;
   private int locationDistanceNumColor = 0;
   private int milesAbbreviationColor = 0;
+  private static String str_val=" ";
+
 
   public LocationRecyclerViewAdapter(List<IndividualLocation> styles,
                                      Context context, ClickListener cardClickListener, int selectedTheme) {
@@ -60,6 +67,8 @@ public class LocationRecyclerViewAdapter extends
 
   public interface ClickListener {
     void onItemClick(int position);
+
+
   }
 
   @Override
@@ -71,12 +80,13 @@ public class LocationRecyclerViewAdapter extends
   public void onBindViewHolder(ViewHolder card, int position) {
 
     IndividualLocation locationCard = listOfLocations.get(position);
-
+    str_val=locationCard.getName();
     card.nameTextView.setText(locationCard.getName());
     card.addressTextView.setText(locationCard.getAddress());
     card.phoneNumTextView.setText(locationCard.getPhoneNum());
     card.hoursTextView.setText(locationCard.getHours());
     card.distanceNumberTextView.setText(locationCard.getDistance());
+
 
     switch (selectedTheme) {
       case R.style.AppTheme_Blue:
@@ -88,6 +98,7 @@ public class LocationRecyclerViewAdapter extends
         setAlphas(card, .41f, .48f, 100f, .48f,
           100f,
           .41f);
+
 
     }
 
@@ -102,6 +113,7 @@ public class LocationRecyclerViewAdapter extends
     card.milesAbbreviationTextView.setTextColor(milesAbbreviationColor);
     card.addressTextView.setTextColor(locationAddressColor);
     card.phoneHeaderTextView.setTextColor(locationPhoneHeaderColor);
+
   }
 
   private void setColors(int colorForUpperCard, int colorForName, int colorForAddress,
@@ -142,6 +154,7 @@ public class LocationRecyclerViewAdapter extends
     CardView cardView;
     ImageView backgroundCircleImageView;
     ImageView emojiImageView;
+    Button visit;
 
     ViewHolder(View itemView) {
       super(itemView);
@@ -156,6 +169,15 @@ public class LocationRecyclerViewAdapter extends
       distanceNumberTextView = itemView.findViewById(R.id.distance_num_tv);
       hoursHeaderTextView = itemView.findViewById(R.id.hours_header_tv);
       milesAbbreviationTextView = itemView.findViewById(R.id.miles_mi_tv);
+      visit= itemView.findViewById(R.id.visit);
+      visit.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+          Intent intent = new Intent (view.getContext(), Slot_selecter.class);
+          intent.putExtra("store",str_val);
+          view.getContext().startActivity(intent);
+        }
+      });
       cardView = itemView.findViewById(R.id.map_view_location_card);
       cardView.setOnClickListener(new View.OnClickListener() {
         @Override
@@ -171,8 +193,11 @@ public class LocationRecyclerViewAdapter extends
       });
     }
 
+
     @Override
     public void onClick(View view) {
+      Intent intent = new Intent (view.getContext(), Slot_selecter.class);
+      view.getContext().startActivity(intent);
     }
   }
 }

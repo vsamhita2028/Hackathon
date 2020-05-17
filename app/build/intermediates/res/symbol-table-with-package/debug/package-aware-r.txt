@@ -1425,6 +1425,7 @@ id prevButton
 id progress_circular
 id progress_horizontal
 id radio
+id rel
 id right
 id right_icon
 id right_side
@@ -1475,8 +1476,10 @@ id src_over
 id standard
 id start
 id status_bar_latest_event_content
+id str_name
 id stretch
 id submenuarrow
+id submit
 id submit_area
 id tabMode
 id tag_transition_group
@@ -1516,6 +1519,7 @@ id user_det
 id viewPager
 id view_offset_helper
 id visible
+id visit
 id white_view
 id wide
 id withText
@@ -1572,6 +1576,7 @@ layout abc_tooltip
 layout activity_dashboard
 layout activity_main
 layout activity_map
+layout activity_store_selector
 layout activity_theme_picker
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

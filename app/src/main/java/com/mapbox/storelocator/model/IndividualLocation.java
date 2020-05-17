@@ -1,5 +1,7 @@
 package com.mapbox.storelocator.model;
 
+import android.widget.Button;
+
 import com.mapbox.mapboxsdk.geometry.LatLng;
 
 /**
@@ -13,6 +15,7 @@ public class IndividualLocation {
   private String phoneNum;
   private String distance;
   private LatLng location;
+
 
   public IndividualLocation(String name, String address, String hours, String phoneNum, LatLng location) {
     this.name = name;

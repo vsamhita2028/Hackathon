@@ -239,16 +239,16 @@ public final class R {
         public static final int notification_background = 0x7f090093;
         public static final int notification_main_column = 0x7f090094;
         public static final int notification_main_column_container = 0x7f090095;
-        public static final int right = 0x7f0900a4;
-        public static final int right_icon = 0x7f0900a5;
-        public static final int right_side = 0x7f0900a6;
-        public static final int start = 0x7f0900d4;
-        public static final int tag_transition_group = 0x7f0900da;
-        public static final int text = 0x7f0900dd;
-        public static final int text2 = 0x7f0900de;
-        public static final int time = 0x7f0900e9;
-        public static final int title = 0x7f0900ea;
-        public static final int top = 0x7f0900ed;
+        public static final int right = 0x7f0900a5;
+        public static final int right_icon = 0x7f0900a6;
+        public static final int right_side = 0x7f0900a7;
+        public static final int start = 0x7f0900d5;
+        public static final int tag_transition_group = 0x7f0900dd;
+        public static final int text = 0x7f0900e0;
+        public static final int text2 = 0x7f0900e1;
+        public static final int time = 0x7f0900ec;
+        public static final int title = 0x7f0900ed;
+        public static final int top = 0x7f0900f0;
     }
     public static final class integer {
         private integer() {}
@@ -258,16 +258,16 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int mapbox_attribution_list_item = 0x7f0c0031;
-        public static final int mapbox_infowindow_content = 0x7f0c0032;
-        public static final int mapbox_mapview_internal = 0x7f0c0033;
-        public static final int mapbox_view_image_marker = 0x7f0c0034;
-        public static final int notification_action = 0x7f0c0037;
-        public static final int notification_action_tombstone = 0x7f0c0038;
-        public static final int notification_template_custom_big = 0x7f0c003f;
-        public static final int notification_template_icon_group = 0x7f0c0040;
-        public static final int notification_template_part_chronometer = 0x7f0c0044;
-        public static final int notification_template_part_time = 0x7f0c0045;
+        public static final int mapbox_attribution_list_item = 0x7f0c0032;
+        public static final int mapbox_infowindow_content = 0x7f0c0033;
+        public static final int mapbox_mapview_internal = 0x7f0c0034;
+        public static final int mapbox_view_image_marker = 0x7f0c0035;
+        public static final int notification_action = 0x7f0c0038;
+        public static final int notification_action_tombstone = 0x7f0c0039;
+        public static final int notification_template_custom_big = 0x7f0c0040;
+        public static final int notification_template_icon_group = 0x7f0c0041;
+        public static final int notification_template_part_chronometer = 0x7f0c0045;
+        public static final int notification_template_part_time = 0x7f0c0046;
     }
     public static final class string {
         private string() {}
