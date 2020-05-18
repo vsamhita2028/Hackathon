@@ -33,7 +33,7 @@ public class Slot_selecter extends AppCompatActivity {
     private static RadioButton radioButton;
     private static String slot;
     private static String count;
-    static DatabaseReference reference;
+    DatabaseReference reference;
     static String value1;
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -89,17 +89,31 @@ public class Slot_selecter extends AppCompatActivity {
             public void onClick(View view) {
 
 
-                 reference = FirebaseDatabase.getInstance().getReference("Store_names");
-                Query checkstore = reference.orderByChild("Store_name").equalTo(value1);
-                checkstore.addValueEventListener(new ValueEventListener() {
+                 reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
+                Toast toast = Toast.makeText(getApplicationContext(),value1, Toast.LENGTH_LONG);
+                toast.show();
+                reference.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
                         if(dataSnapshot.exists()){
 
-                            count = dataSnapshot.child(value1).child(slot).getValue(String.class);
+                            String count = dataSnapshot.child(slot).getValue().toString();
                             Toast toast = Toast.makeText(getApplicationContext(), count, Toast.LENGTH_LONG);
                             toast.show();
+                            int n=Integer.parseInt(count);
+                            if(n<=5){
+                                n=n+1;
+                                reference.child(slot).setValue(String.valueOf(n));
+                                //Intent i = new Intent(getApplicationContext(), Last_page.class);
+                                // startActivity(i);
+                            }
+                            else{
+                                radioButton.setVisibility(View.INVISIBLE);
+                                Toast lol = Toast.makeText(getApplicationContext(), "The selected slot is full", Toast.LENGTH_LONG);
+                                lol.show();
+
+                            }
                             //Log.d("Meow",count);
                         }
 
@@ -112,7 +126,8 @@ public class Slot_selecter extends AppCompatActivity {
 
                     }
                 });
-                update();
+                //update();
+
 
             }
         });
@@ -120,22 +135,6 @@ public class Slot_selecter extends AppCompatActivity {
 
     }
     public  void update(){
-        int n=Integer.parseInt(count);
-        if(n<5){
-            int add_val=Integer.parseInt(count);
-            add_val=add_val+1;
-            reference.child(value1).child(slot).setValue(String.valueOf(add_val));
-            Toast toast = Toast.makeText(getApplicationContext(), "The selected slot is updated", Toast.LENGTH_LONG);
-            toast.show();
-            //Intent i = new Intent(getApplicationContext(), Last_page.class);
-            // startActivity(i);
-        }
-        else{
-            radioButton.setVisibility(View.INVISIBLE);
-            Toast toast = Toast.makeText(getApplicationContext(), "The selected slot is full", Toast.LENGTH_LONG);
-            toast.show();
-
-        }
 
     }
 
