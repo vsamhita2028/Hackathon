@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
@@ -25,6 +26,7 @@ public class Fragment2 extends Fragment {
     ViewPager viewPager;
     Button done;
     EditText user;
+    EditText phone;
 
 
     public Fragment2() {
@@ -41,16 +43,25 @@ public class Fragment2 extends Fragment {
         back=view.findViewById(R.id.slideTwoBack);
         done=view.findViewById(R.id.done);
         user=view.findViewById(R.id.user);
-        Context context = getActivity();
-        SharedPreferences sharedPref = context.getSharedPreferences(
-                "Mysp", Context.MODE_PRIVATE);
+        phone = view.findViewById(R.id.ph);
+
+
+       // SharedPreferences sharedPref = context.getSharedPreferences(
+                //"Mysp", Context.MODE_PRIVATE);
         done.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
+                Context context = getActivity();
+                SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(context);
+                SharedPreferences.Editor editor = preferences.edit();
+                editor.putString("User",user.getText().toString());
+                editor.putString("Phone",phone.getText().toString());
+                editor.commit();
+                /*SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = sharedPref.edit();
                 editor.putString("User",user.getText().toString());
-                editor.commit();
+                editor.putString("Phone",phone.getText().toString());
+                editor.commit();*/
             }
         });
         viewPager =getActivity().findViewById(R.id.viewPager);

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/App.iml" filepath="$PROJECT_DIR$/App.iml" group="App" />
-      <module fileurl="file://$PROJECT_DIR$/app/App-app.iml" filepath="$PROJECT_DIR$/app/App-app.iml" group="App/app" />
+      <module fileurl="file://$PROJECT_DIR$/Hackathon.iml" filepath="$PROJECT_DIR$/Hackathon.iml" group="Hackathon" />
+      <module fileurl="file://$PROJECT_DIR$/app/Hackathon-app.iml" filepath="$PROJECT_DIR$/app/Hackathon-app.iml" group="Hackathon/app" />
       <module fileurl="file://$PROJECT_DIR$/StoreLocator.iml" filepath="$PROJECT_DIR$/StoreLocator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

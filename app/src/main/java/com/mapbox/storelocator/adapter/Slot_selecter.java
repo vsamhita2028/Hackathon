@@ -2,28 +2,19 @@ package com.mapbox.storelocator.adapter;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.google.firebase.FirebaseApp;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.Query;
-import com.google.firebase.database.ValueEventListener;
 import com.mapbox.storelocator.R;
-import com.mapbox.storelocator.activity.MapActivity;
+import com.mapbox.storelocator.adapter.Last_page;
 
-import static com.mapbox.mapboxsdk.Mapbox.getApplicationContext;
+import static android.app.PendingIntent.getActivity;
 
 public class Slot_selecter extends AppCompatActivity {
     private Button submit;
@@ -44,7 +35,7 @@ public class Slot_selecter extends AppCompatActivity {
         value1 = extras.getString("store");
         str = findViewById(R.id.str_name);
         str.setText(value1);
-        submit = findViewById(R.id.submit);
+        submit = findViewById(R.id.sammy);
         rg = new RadioGroup(this);
         int start, end;
         start = 9;
@@ -87,9 +78,10 @@ public class Slot_selecter extends AppCompatActivity {
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Intent saraswati = new Intent(getApplicationContext(), Last_page.class);
+                startActivity(saraswati);
 
-
-                 reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
+                 /*reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
                 Toast toast = Toast.makeText(getApplicationContext(),value1, Toast.LENGTH_LONG);
                 toast.show();
                 reference.addValueEventListener(new ValueEventListener() {
@@ -105,8 +97,9 @@ public class Slot_selecter extends AppCompatActivity {
                             if(n<=5){
                                 n=n+1;
                                 reference.child(slot).setValue(String.valueOf(n));
-                                //Intent i = new Intent(getApplicationContext(), Last_page.class);
-                                // startActivity(i);
+                                Intent i = new Intent(getApplicationContext(), Last_page.class);
+                                startActivity(i);
+                                finish();
                             }
                             else{
                                 radioButton.setVisibility(View.INVISIBLE);
@@ -125,7 +118,7 @@ public class Slot_selecter extends AppCompatActivity {
                     public void onCancelled(@NonNull DatabaseError databaseError) {
 
                     }
-                });
+                });*/
                 //update();
 
 

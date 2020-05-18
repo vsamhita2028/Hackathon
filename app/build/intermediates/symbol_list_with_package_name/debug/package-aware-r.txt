@@ -1419,6 +1419,7 @@ id parent
 id parentPanel
 id parent_matrix
 id percent
+id ph
 id phone_header_tv
 id pin
 id prevButton
@@ -1429,6 +1430,7 @@ id rel
 id right
 id right_icon
 id right_side
+id sammy
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
@@ -1479,7 +1481,6 @@ id status_bar_latest_event_content
 id str_name
 id stretch
 id submenuarrow
-id submit
 id submit_area
 id tabMode
 id tag_transition_group
@@ -1493,6 +1494,8 @@ id textStart
 id textView
 id textView2
 id textView3
+id textView4
+id textView5
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1574,6 +1577,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_dashboard
+layout activity_last_page
 layout activity_main
 layout activity_map
 layout activity_store_selector

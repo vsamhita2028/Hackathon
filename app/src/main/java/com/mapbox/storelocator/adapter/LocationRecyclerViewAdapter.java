@@ -184,11 +184,7 @@ public class LocationRecyclerViewAdapter extends
         public void onClick(View view) {
           clickListener.onItemClick(getLayoutPosition());
 
-          CharSequence text = "Hello toast!";
-          int duration = Toast.LENGTH_SHORT;
 
-          Toast toast = Toast.makeText(getApplicationContext(), text, duration);
-          toast.show();
         }
       });
     }

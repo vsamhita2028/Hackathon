@@ -16,15 +16,21 @@
             android:name=".activity.MapActivity"/>
         <activity
             android:name=".adapter.Slot_selecter"/>
+        <activity
+            android:name=".adapter.Last_page">
+
+        </activity>
 
 
         <activity
             android:name=".MainActivity">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
         </activity>
     </application>
 </manifest>
