@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import com.google.firebase.database.DatabaseReference;
 import com.mapbox.storelocator.R;
-import com.mapbox.storelocator.adapter.Last_page;
 
 import static android.app.PendingIntent.getActivity;
 
@@ -38,11 +37,11 @@ public class Slot_selecter extends AppCompatActivity {
         submit = findViewById(R.id.sammy);
         rg = new RadioGroup(this);
         int start, end;
-        start = 9;
+        start = 10;
         end = 0;
         rl = (RelativeLayout) findViewById(R.id.rel);
         int c = 0;
-        for (int i = 0; i < 22; i++) {
+        for (int i = 0; i < 18; i++) {
             RadioButton rb1 = new RadioButton(this);
             if (c == 0) {
                 rb1.setText(start + ":00" + " to " + start + ":30");
@@ -78,7 +77,7 @@ public class Slot_selecter extends AppCompatActivity {
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent saraswati = new Intent(getApplicationContext(), Last_page.class);
+                Intent saraswati = new Intent(getApplicationContext(), Trialpage.class);
                 startActivity(saraswati);
 
                  /*reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);

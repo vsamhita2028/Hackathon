@@ -34,7 +34,7 @@
         android:theme="@style/AppTheme.Gray" >
         <activity android:name="com.mapbox.storelocator.activity.MapActivity" />
         <activity android:name="com.mapbox.storelocator.adapter.Slot_selecter" />
-        <activity android:name="com.mapbox.storelocator.adapter.Last_page" >
+        <activity android:name="com.mapbox.storelocator.adapter.Trialpage" >
         </activity>
         <activity android:name="com.mapbox.storelocator.MainActivity" >
             <intent-filter>

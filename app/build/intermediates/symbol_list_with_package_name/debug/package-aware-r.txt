@@ -1301,6 +1301,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn
 id buttonPanel
 id cancel_action
 id center
@@ -1333,7 +1334,6 @@ id direct
 id disableHome
 id distance_num_tv
 id done
-id dotslayout
 id edit_query
 id emoji
 id end
@@ -1405,7 +1405,6 @@ id mtrl_internal_children_alpha_tag
 id multiply
 id navigation_header_container
 id never
-id nextButton
 id none
 id normal
 id notification_background
@@ -1421,8 +1420,8 @@ id parent_matrix
 id percent
 id ph
 id phone_header_tv
+id phone_number
 id pin
-id prevButton
 id progress_circular
 id progress_horizontal
 id radio
@@ -1462,7 +1461,6 @@ id slideTwoBack
 id slideTwoNext
 id slide_desc
 id slide_heading
-id slideviewpager
 id smallLabel
 id snackbar_action
 id snackbar_text
@@ -1519,6 +1517,7 @@ id upper_view
 id useLogo
 id user
 id user_det
+id user_name
 id viewPager
 id view_offset_helper
 id visible

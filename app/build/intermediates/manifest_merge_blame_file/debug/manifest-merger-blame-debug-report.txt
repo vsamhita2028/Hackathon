@@ -64,7 +64,7 @@
 36        <activity android:name="com.mapbox.storelocator.adapter.Slot_selecter" />
 36-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:17:9-18:52
 36-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:18:13-50
-37        <activity android:name="com.mapbox.storelocator.adapter.Last_page" >
+37        <activity android:name="com.mapbox.storelocator.adapter.Trialpage" >
 37-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:19:9-22:20
 37-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:20:13-46
 38        </activity>

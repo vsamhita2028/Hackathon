@@ -17,7 +17,7 @@
         <activity
             android:name=".adapter.Slot_selecter"/>
         <activity
-            android:name=".adapter.Last_page">
+            android:name=".adapter.Trialpage">
 
         </activity>
 

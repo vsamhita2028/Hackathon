@@ -131,7 +131,7 @@ activity#com.mapbox.storelocator.adapter.Slot_selecter
 ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:17:9-18:52
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:18:13-50
-activity#com.mapbox.storelocator.adapter.Last_page
+activity#com.mapbox.storelocator.adapter.Trialpage
 ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:19:9-22:20
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:20:13-46
