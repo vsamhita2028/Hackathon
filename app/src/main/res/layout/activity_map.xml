@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     tools:ignore="MissingPrefix"
     android:layout_height="match_parent"
-    tools:context="com.mapbox.storelocator.activity.MapActivity">
+    tools:context="com.mapbox.storelocator.MapActivity">
 
     <com.mapbox.mapboxsdk.maps.MapView
         android:id="@+id/mapView"

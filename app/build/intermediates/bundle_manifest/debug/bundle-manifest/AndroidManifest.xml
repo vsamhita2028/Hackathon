@@ -32,7 +32,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme.Gray" >
-        <activity android:name="com.mapbox.storelocator.activity.MapActivity" />
+        <activity android:name="com.mapbox.storelocator.MapActivity" />
         <activity android:name="com.mapbox.storelocator.adapter.Slot_selecter" />
         <activity android:name="com.mapbox.storelocator.adapter.Trialpage" >
         </activity>

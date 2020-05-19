@@ -13,8 +13,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 import android.os.Build;
 
-import com.mapbox.storelocator.activity.MapActivity;
-
 import static android.app.PendingIntent.getActivity;
 
 

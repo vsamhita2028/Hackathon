@@ -14,10 +14,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.mapbox.storelocator.activity.MapActivity;
-
-import static com.mapbox.mapboxsdk.Mapbox.getApplicationContext;
-
 
 public class Fragment2 extends Fragment {
 

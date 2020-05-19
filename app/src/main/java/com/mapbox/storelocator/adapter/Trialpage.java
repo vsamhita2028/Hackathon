@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.mapbox.storelocator.R;
-import com.mapbox.storelocator.activity.MapActivity;
+import com.mapbox.storelocator.MapActivity;
 
 public class Trialpage extends AppCompatActivity {
     private Button b;

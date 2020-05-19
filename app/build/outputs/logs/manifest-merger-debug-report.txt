@@ -123,10 +123,10 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\samhita vetcha.LAPTO
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:9:9-36
 	android:theme
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:14:9-45
-activity#com.mapbox.storelocator.activity.MapActivity
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:15:9-16:51
+activity#com.mapbox.storelocator.MapActivity
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:15:9-16:42
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:16:13-49
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:16:13-40
 activity#com.mapbox.storelocator.adapter.Slot_selecter
 ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:17:9-18:52
 	android:name

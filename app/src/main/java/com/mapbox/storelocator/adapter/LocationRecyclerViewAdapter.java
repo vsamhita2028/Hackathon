@@ -10,20 +10,14 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.mapbox.storelocator.R;
-import com.mapbox.storelocator.activity.MapActivity;
 import com.mapbox.storelocator.model.IndividualLocation;
 
 import java.util.List;
-
-import static android.support.v4.content.ContextCompat.startActivity;
-import static com.mapbox.mapboxsdk.Mapbox.getApplicationContext;
 
 /**
  * RecyclerView adapter to display a list of location cards on top of the map
@@ -79,7 +73,10 @@ public class LocationRecyclerViewAdapter extends
   @Override
   public void onBindViewHolder(ViewHolder card, int position) {
 
-    IndividualLocation locationCard = listOfLocations.get(position);
+
+      IndividualLocation locationCard = listOfLocations.get(position);
+      IndividualLocation locationCard1 = listOfLocations.get(position);
+
     str_val=locationCard.getName();
     card.nameTextView.setText(locationCard.getName());
     card.addressTextView.setText(locationCard.getAddress());
@@ -174,7 +171,7 @@ public class LocationRecyclerViewAdapter extends
         @Override
         public void onClick(View view) {
           Intent intent = new Intent (view.getContext(), Slot_selecter.class);
-          intent.putExtra("store",str_val);
+          //intent.putExtra("store",str_val);
           view.getContext().startActivity(intent);
         }
       });

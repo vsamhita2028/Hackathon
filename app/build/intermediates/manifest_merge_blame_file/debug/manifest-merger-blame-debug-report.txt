@@ -58,9 +58,9 @@
 33        android:testOnly="true"
 34        android:theme="@style/AppTheme.Gray" >
 34-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:14:9-45
-35        <activity android:name="com.mapbox.storelocator.activity.MapActivity" />
-35-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:15:9-16:51
-35-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:16:13-49
+35        <activity android:name="com.mapbox.storelocator.MapActivity" />
+35-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:15:9-16:42
+35-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:16:13-40
 36        <activity android:name="com.mapbox.storelocator.adapter.Slot_selecter" />
 36-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:17:9-18:52
 36-->C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:18:13-50
