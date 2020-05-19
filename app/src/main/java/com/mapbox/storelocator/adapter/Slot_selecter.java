@@ -86,58 +86,32 @@ public class Slot_selecter extends AppCompatActivity {
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent saraswati = new Intent(getApplicationContext(), Trialpage.class);
-                startActivity(saraswati);
-
-                 reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
+                reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
                 Toast toast = Toast.makeText(getApplicationContext(),value1, Toast.LENGTH_LONG);
                 toast.show();
-                reference.addValueEventListener(new ValueEventListener() {
+                reference.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-
-                        if(dataSnapshot.exists()){
-
-                            String count = dataSnapshot.child(slot).getValue().toString();
-                            Toast toast = Toast.makeText(getApplicationContext(), count, Toast.LENGTH_LONG);
-                            toast.show();
-                            int n=Integer.parseInt(count);
-                            if(n<=5){
-                                n=n+1;
-                                reference.child(slot).setValue(String.valueOf(n));
-                                Intent i = new Intent(getApplicationContext(), Trialpage.class);
-                                startActivity(i);
-                                finish();
-                            }
-                            else{
-                                radioButton.setVisibility(View.INVISIBLE);
-                                Toast lol = Toast.makeText(getApplicationContext(), "The selected slot is full", Toast.LENGTH_LONG);
-                                lol.show();
-
-                            }
-                            //Log.d("Meow",count);
+                        if (Integer.parseInt(dataSnapshot.child(slot).getValue().toString())>5)
+                        {
+                            radioButton.setVisibility(View.INVISIBLE);
+                            Toast lol = Toast.makeText(getApplicationContext(), "The selected slot is full", Toast.LENGTH_LONG);
+                            lol.show();
                         }
-
-
-
+                        else
+                        {
+                            reference.child(slot).setValue(String.valueOf(Integer.parseInt(dataSnapshot.child(slot).getValue().toString())+1));
+                        }
                     }
-
                     @Override
                     public void onCancelled(@NonNull DatabaseError databaseError) {
 
                     }
                 });
-                //update();
-
-
+                Intent i = new Intent(getApplicationContext(), Trialpage.class);
+                startActivity(i);
+                finish();
             }
         });
-
-
     }
-    public  void update(){
-
-    }
-
-    }
-
+}

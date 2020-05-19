@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "outputFile": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\.gradle\\caches\\transforms-2\\files-2.1\\e02915c7757667d0085fcdb66c9a7d1f\\mapbox-android-sdk-8.1.0\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\kumar\\.gradle\\caches\\transforms-2\\files-2.1\\e02915c7757667d0085fcdb66c9a7d1f\\mapbox-android-sdk-8.1.0\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
