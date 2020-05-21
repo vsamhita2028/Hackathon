@@ -1610,6 +1610,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_bookedslot
+layout activity_chatbot
 layout activity_dashboard
 layout activity_last_page
 layout activity_main

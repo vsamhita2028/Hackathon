@@ -70,8 +70,8 @@ public class Dashboard extends AppCompatActivity {
         /*chatbot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), MapActivity.class);
-                startActivity(i);
+                Intent intent = new Intent(getApplicationContext(), Chatbot.class);
+                startActivity(intent);
             }
         });*/
 
