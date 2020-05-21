@@ -65,7 +65,7 @@ public class Fragment2 extends Fragment {
             @Override
             public void onClick(View view) {
                 viewPager.setCurrentItem(1);
-                Intent i = new Intent(getActivity().getApplicationContext(), MapActivity.class);
+                Intent i = new Intent(getActivity().getApplicationContext(), Dashboard.class);
                 startActivity(i);
 
             }

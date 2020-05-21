@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.mapbox.storelocator.Dashboard;
 import com.mapbox.storelocator.R;
 import com.mapbox.storelocator.MapActivity;
 
@@ -31,7 +32,7 @@ public class Trialpage extends AppCompatActivity {
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent (view.getContext(), MapActivity.class);
+                Intent intent = new Intent (view.getContext(), Dashboard.class);
                 startActivity(intent);
             }
         });

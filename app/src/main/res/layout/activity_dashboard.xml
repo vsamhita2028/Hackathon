@@ -1,59 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Dashboard">
 
-    <ImageButton
-        android:id="@+id/map"
-        android:layout_width="107dp"
-        android:layout_height="104dp"
+
+    <ImageView
+        android:id="@+id/mapbutton"
+        android:layout_width="85dp"
+        android:layout_height="69dp"
+        android:clickable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.265"
+        app:layout_constraintHorizontal_bias="0.264"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.408"
-        app:srcCompat="@drawable/mapbox_marker_icon_default" />
+        app:srcCompat="@drawable/map" />
+
+    <ImageView
+        android:id="@+id/reservedslot"
+        android:layout_width="85dp"
+        android:layout_height="89dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.769"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502"
+        app:srcCompat="@drawable/sign" />
+
+    <ImageView
+        android:id="@+id/prevuserdet"
+        android:layout_width="89dp"
+        android:layout_height="88dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.267"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.741"
+        app:srcCompat="@drawable/useravatar1" />
+
+    <ImageView
+        android:id="@+id/chatbot_button"
+        android:layout_width="89dp"
+        android:layout_height="70dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.779"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.748"
+        app:srcCompat="@drawable/chatbot" />
 
     <TextView
-        android:id="@+id/textView3"
-        android:layout_width="0dp"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Dashboard"
-        android:textSize="30dp"
-        android:textAlignment="center"
+        android:fontFamily="@font/syncopate"
+        android:text="My Account"
+        android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.233"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.102" />
+        app:layout_constraintVertical_bias="0.815" />
 
-    <ImageButton
-        android:id="@+id/orders"
-        android:layout_width="125dp"
-        android:layout_height="100dp"
+    <TextView
+        android:id="@+id/slots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/syncopate"
+        android:text="Booked Slots"
+        android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.839"
+        app:layout_constraintHorizontal_bias="0.831"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.405"
-        app:srcCompat="@drawable/mapbox_info_bg_selector" />
+        app:layout_constraintVertical_bias="0.595" />
 
-    <ImageButton
-        android:id="@+id/user_det"
-        android:layout_width="129dp"
-        android:layout_height="123dp"
+    <TextView
+        android:id="@+id/chatbot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/syncopate"
+        android:text="Talk to us"
+        android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.567"
+        app:layout_constraintHorizontal_bias="0.827"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.717"
-        tools:srcCompat="@tools:sample/avatars[3]" />
+        app:layout_constraintVertical_bias="0.815" />
+
+    <TextView
+        android:id="@+id/map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/syncopate"
+        android:text="Go to map"
+        android:textColor="@android:color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.249"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.595" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="306dp"
+        android:layout_height="137dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.134"
+        app:srcCompat="@drawable/logo" />
 
 </android.support.constraint.ConstraintLayout>

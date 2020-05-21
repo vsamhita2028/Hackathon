@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment2"
-    android:orientation="horizontal">
+    android:orientation="horizontal"
+    tools:context=".Fragment2">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,57 +17,95 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="263dp"
+            android:layout_width="229dp"
+            android:layout_height="128dp"
             android:layout_gravity="center"
-            android:layout_marginTop="50dp"
-            android:src="@drawable/purple_selected_burger" />
+            android:layout_marginTop="80dp"
+            android:src="@drawable/useravatar2" />
 
         <TextView
             android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="381dp"
+            android:layout_height="79dp"
             android:layout_marginTop="50dp"
             android:gravity="center"
-            android:text="title2"
-            android:textSize="26dp" />
+            android:text="Register Here"
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Enter User Id"
-            android:textSize="18dp" />
+            android:textSize="30sp"
+            app:fontFamily="@font/syncopate" />
 
-        <EditText
-            android:id="@+id/user"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="textPersonName" />
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="384dp"
+            android:layout_height="265dp">
 
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Phone Number"
-            android:textSize="18sp" />
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="75dp"
+                android:layout_height="50dp"
+                android:src="@drawable/business"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.052"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.172" />
 
-        <EditText
-            android:id="@+id/ph"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName" />
+            <EditText
+                android:id="@+id/user"
+                android:layout_width="239dp"
+                android:layout_height="43dp"
+                android:hint="Enter User Id"
+                android:inputType="textPersonName"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.8"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.189" />
 
-        <Button
-            android:id="@+id/done"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Done" />
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="75dp"
+                android:layout_height="50dp"
+                android:src="@drawable/telephone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.053"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.413" />
+
+            <EditText
+                android:id="@+id/ph"
+                android:layout_width="239dp"
+                android:layout_height="43dp"
+                android:ems="10"
+                android:hint="Enter Phone Number"
+                android:inputType="textPersonName"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.81"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.454" />
+
+            <Button
+                android:id="@+id/done"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/downbackground"
+                android:text="Done"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.811" />
+        </android.support.constraint.ConstraintLayout>
 
         <LinearLayout
-            android:layout_width="373dp"
-            android:layout_height="117dp"
+            android:layout_width="378dp"
+            android:layout_height="96dp"
             android:orientation="horizontal">
 
             <TextView

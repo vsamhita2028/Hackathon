@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         if(sharedPref.getBoolean("introval",false)){
-            Intent i = new Intent(this.getApplicationContext(), MapActivity.class);
+            Intent i = new Intent(this.getApplicationContext(), Dashboard.class);
             startActivity(i);
             finish();
         }

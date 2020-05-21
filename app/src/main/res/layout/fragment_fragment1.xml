@@ -10,44 +10,44 @@
 
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageView5"
         android:layout_width="match_parent"
-        android:layout_height="263dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="50dp"
-        android:src="@drawable/blue_selected_ice_cream" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_marginTop="50dp"
         android:layout_height="wrap_content"
-        android:text="title"
-        android:textSize="26dp"
-        android:gravity="center"/>
+        android:layout_marginTop="80dp"
+        android:src="@drawable/air" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="381dp"
+        android:layout_height="152dp"
+        android:src="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="description"
-        android:textSize="18dp"/>
+        android:layout_width="369dp"
+        android:layout_height="84dp"
+        android:gravity="center"
+        android:text="Welcome"
+        android:textSize="36sp"
+        app:fontFamily="@font/syncopate" />
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="379dp"
+        android:layout_height="214dp"
         android:orientation="horizontal">
 
         <TextView
             android:id="@+id/slideOneNext"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:textSize="20sp"
             android:layout_gravity="bottom|end"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
             android:gravity="bottom|end"
             android:text="Next"
-            android:clickable="true"
-            android:focusable="true"/>
+            android:textSize="20sp" />
+
     </LinearLayout>
+
 </LinearLayout>

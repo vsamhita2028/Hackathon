@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraint_upper_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?attr/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/upper_view"
+        app:layout_constraintTop_toBottomOf="@+id/upper_view">
+
+
+        <View
+            android:id="@+id/white_view2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/background_light"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline12"
+            app:layout_constraintVertical_bias="0.743" />
+
+        <View
+            android:id="@+id/upper_view"
+            android:layout_width="408dp"
+            android:layout_height="63dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/button"
+            app:layout_constraintBottom_toTopOf="@+id/guideline12"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <View
+            android:id="@+id/white_view"
+            android:layout_width="409dp"
+            android:layout_height="84dp"
+            android:background="@android:color/background_light"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline12"
+            app:layout_constraintVertical_bias="0.069" />
+
+        <FrameLayout
+            android:id="@+id/icon_frame_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toTopOf="@+id/guideline12"
+            app:layout_constraintLeft_toLeftOf="@+id/guideline10"
+            app:layout_constraintStart_toStartOf="@+id/guideline5"
+            app:layout_constraintTop_toTopOf="@+id/guideline11" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="372dp" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="16dp" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="74dp" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="16dp" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline5"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="20dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="70dp"
+            android:layout_height="57dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.046"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.074"
+            app:srcCompat="@drawable/circle" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="240dp"
+            android:layout_height="35dp"
+            android:text="Successful"
+            android:textSize="24sp"
+            app:fontFamily="@font/syncopate"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.595"
+            app:layout_constraintStart_toStartOf="@+id/guideline10"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.086" />
+
+        <TextView
+            android:id="@+id/myid"
+            android:layout_width="96dp"
+            android:layout_height="25dp"
+            android:text="Store Name"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.047"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.174" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="95dp"
+            android:layout_height="23dp"
+            android:text="Slot"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.047"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.209" />
+
+        <TextView
+            android:id="@+id/getstorename"
+            android:layout_width="182dp"
+            android:layout_height="21dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.173" />
+
+        <TextView
+            android:id="@+id/getslot"
+            android:layout_width="185dp"
+            android:layout_height="23dp"
+            app:layout_constraintBottom_toBottomOf="@+id/white_view"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.486"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.822" />
+
+        <Button
+            android:id="@+id/dashback"
+            android:layout_width="77dp"
+            android:layout_height="39dp"
+            android:text="back"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.913"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline11"
+            app:layout_constraintVertical_bias="0.195" />
+
+    </android.support.constraint.ConstraintLayout>
+</android.support.v7.widget.CardView>

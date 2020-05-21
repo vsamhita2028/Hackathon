@@ -1,1046 +1,1358 @@
 [
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ice_cream_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\ice_cream_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_unselected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_unselected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_money_bag_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\money_bag_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_divider_line.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\divider_line.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fragment2.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\fragment_fragment2.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bicycle_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\bicycle_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_neutral_orange_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\neutral_orange_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_useravatar2.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\useravatar2.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide1.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\slide1.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\button.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\map.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chatbot.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\chatbot.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fragment1.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\fragment_fragment1.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookedslot.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_bookedslot.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_fill_gradient_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\splash_fill_gradient_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bicycle_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\bicycle_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ice_cream_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\ice_cream_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userdetails.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_userdetails.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_unselected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_unselected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_location_map_view_rv_card.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\single_location_map_view_rv_card.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cheese_burger_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\cheese_burger_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divider_line.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\divider_line.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neutral_orange_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\neutral_orange_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_divider_line.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\divider_line.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neutral_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\neutral_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_unselected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_unselected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_house_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\house_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bicycle_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\bicycle_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_downbackground.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\downbackground.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_house_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\house_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_neutral_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\neutral_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_location_map_view_rv_card.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\single_location_map_view_rv_card.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\house_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\font_bariol_regular.otf.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\font\\bariol_regular.otf"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cheese_burger_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\cheese_burger_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ice_cream_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\ice_cream_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_online.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\online.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_air.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\air.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_selected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_selected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_last_page.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_last_page.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_last_page.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_last_page.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\font_bariol_bold.otf.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\font\\bariol_bold.otf"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_neutral_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\neutral_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_selected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_selected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_downbackground.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\downbackground.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bicycle_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\bicycle_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store_selector.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_store_selector.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_money_bag_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\money_bag_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_backgroud_img.jpg.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\backgroud_img.jpg"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_divider_line.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\divider_line.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_neutral_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\neutral_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cheese_burger_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\cheese_burger_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_business.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\business.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\button.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backgroud_img.jpg.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\backgroud_img.jpg"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_business.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\business.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_useravatar1.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\useravatar1.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_fill_gradient_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\splash_fill_gradient_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_online.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\online.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_useravatar2.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\useravatar2.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neutral_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\neutral_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_slider.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\layout_slider.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide1.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\slide1.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ice_cream_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\ice_cream_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_money_bag_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\money_bag_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_house_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\house_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_house_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\house_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_downbackground.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\downbackground.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_neutral_orange_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\neutral_orange_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_selected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_selected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_theme_picker.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_theme_picker.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_online.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\online.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ice_cream_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\ice_cream_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neutral_orange_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\neutral_orange_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_useravatar1.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\useravatar1.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_divider_line.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\divider_line.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_neutral_orange_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\neutral_orange_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_money_bag_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\money_bag_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neutral_orange_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\neutral_orange_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chatbot.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\chatbot.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divider_line.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\divider_line.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_air.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\air.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backgroud_img.jpg.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\backgroud_img.jpg"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neutral_orange_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\neutral_orange_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_neutral_orange_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\neutral_orange_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sign.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\sign.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_money_bag_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\money_bag_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_slider.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\layout_slider.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sign.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\sign.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ice_cream_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\ice_cream_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_unselected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_unselected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_selected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_selected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_slotbooked.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\cardview_slotbooked.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fragment1.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\fragment_fragment1.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bicycle_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\bicycle_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ice_cream_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\ice_cream_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_air.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\air.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_single_location_map_view_rv_card.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout-land\\single_location_map_view_rv_card.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_neutral_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\neutral_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_house_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\house_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_useravatar1.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\useravatar1.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ice_cream_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\ice_cream_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backgroud_img.jpg.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\backgroud_img.jpg"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chatbot.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\chatbot.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_fill_gradient_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\splash_fill_gradient_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_map.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_newback.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\newback.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_telephone.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\telephone.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bicycle_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\bicycle_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\green_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cheese_burger_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\cheese_burger_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_fill_gradient_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\splash_fill_gradient_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\font_syncopate.ttf.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\font\\syncopate.ttf"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backgroud_img.jpg.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\backgroud_img.jpg"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_business.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\business.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_divider_line.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\divider_line.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_map.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\map.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cheese_burger_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\cheese_burger_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_divider_line.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\divider_line.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cheese_burger_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\cheese_burger_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\house_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_useravatar1.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\useravatar1.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_selected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_selected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_telephone.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\telephone.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_fill_gradient_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\splash_fill_gradient_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_unselected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_unselected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_unselected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_unselected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_unselected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_unselected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_selected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_selected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sign.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\sign.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_neutral_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\neutral_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_house_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\house_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_unselected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_unselected_bike.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_air.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\air.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neutral_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\neutral_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_single_location_map_view_rv_card.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout-land\\single_location_map_view_rv_card.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_divider_line.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\divider_line.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_air.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\air.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cheese_burger_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\cheese_burger_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_button.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\button.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_neutral_orange_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\neutral_orange_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_money_bag_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\money_bag_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\font_bariol_regular.otf.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\font\\bariol_regular.otf"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bicycle_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\bicycle_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_newback.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\newback.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_useravatar2.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\useravatar2.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_newback.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\newback.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_fill_gradient_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\splash_fill_gradient_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cheese_burger_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\cheese_burger_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_telephone.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\telephone.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_theme_picker.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\layout\\activity_theme_picker.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_selected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_selected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backgroud_img.jpg.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\backgroud_img.jpg"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_online.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\online.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_money_bag_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\money_bag_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_fill_gradient_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\splash_fill_gradient_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_unselected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_unselected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_fill_gradient_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\splash_fill_gradient_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bicycle_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\bicycle_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_selected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_selected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backgroud_img.jpg.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\backgroud_img.jpg"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bicycle_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\bicycle_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_money.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_money.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_ice_cream.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_white_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\white_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_useravatar2.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\useravatar2.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_house_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\house_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sign.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\sign.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store_selector.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_store_selector.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_divider_line.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\divider_line.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_money_bag_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\money_bag_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\font_bariol_bold.otf.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\font\\bariol_bold.otf"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_house_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\house_icon.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neutral_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\neutral_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ice_cream_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\ice_cream_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_house.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_circle.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fragment2.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\fragment_fragment2.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_selected_bike.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_selected_bike.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_map.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\map.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_selected_house.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_selected_house.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_telephone.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\telephone.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_downbackground.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\downbackground.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cheese_burger_icon.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\cheese_burger_icon.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\green_user_location.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_ice_cream.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_ice_cream.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_money.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_button_image.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_button_image.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_button_image.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_neutral_orange_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\neutral_orange_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\button.xml"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_burger.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_burger.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_unselected_burger.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_circle.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_circle.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_map.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\map.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_business.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\business.png"
     },
     {
-        "merged": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_user_location.png.flat",
-        "source": "C:\\Users\\kumar\\Desktop\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_user_location.png"
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_money_bag_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\money_bag_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_selected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\blue_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_selected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_selected_bike.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_unselected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_money.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_useravatar2.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\useravatar2.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_unselected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\gray_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_useravatar1.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\useravatar1.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_unselected_bike.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_unselected_bike.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_unselected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\green_user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_money.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_fill_gradient_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\splash_fill_gradient_background.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_purple_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\purple_selected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatbot.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\chatbot.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_purple_selected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\purple_selected_money.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_backgroud_img.jpg.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\backgroud_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gray_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\gray_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_selected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bicycle_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\bicycle_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_business.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\business.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chatbot.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\chatbot.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gray_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\gray_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cheese_burger_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\cheese_burger_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\white_unselected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_unselected_money.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_unselected_money.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_unselected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_online.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\online.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\blue_unselected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ice_cream_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\ice_cream_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_map.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\blue_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_selected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\gray_selected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_purple_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\purple_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\gray_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_selected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_selected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_telephone.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_fill_gradient_background.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\splash_fill_gradient_background.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_ice_cream.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\blue_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sign.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\sign.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_purple_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\purple_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\white_unselected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\white_unselected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_newback.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\newback.xml"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_neutral_button_image.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\neutral_button_image.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_money_bag_icon.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-hdpi\\money_bag_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_green_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxxhdpi\\green_user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_unselected_house.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\white_unselected_house.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_downbackground.xml.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\downbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backgroud_img.jpg.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\backgroud_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backgroud_img.jpg.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xxhdpi\\backgroud_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green_user_location.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-mdpi\\green_user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_circle.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_purple_unselected_burger.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\drawable-xhdpi\\purple_unselected_burger.png"
+    },
+    {
+        "merged": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\samhita vetcha.LAPTOP-BBTLVKUI\\Documents\\GitHub\\Hackathon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     }
 ]

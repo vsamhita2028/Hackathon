@@ -17,10 +17,15 @@
         <activity
             android:name=".adapter.Slot_selecter"/>
         <activity
-            android:name=".adapter.Trialpage">
-
-        </activity>
-
+            android:name=".Dashboard"/>
+        <activity
+            android:name=".UserdetailsPage"/>
+        <activity
+        android:name=".Booked_slot_viewer"/>
+        <activity
+            android:name=".adapter.Trialpage"></activity>
+        <activity
+            android:name=".Bookedslots"/>
 
         <activity
             android:name=".MainActivity">

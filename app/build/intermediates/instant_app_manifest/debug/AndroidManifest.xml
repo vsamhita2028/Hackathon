@@ -35,8 +35,11 @@
         android:theme="@style/AppTheme.Gray" >
         <activity android:name="com.mapbox.storelocator.MapActivity" />
         <activity android:name="com.mapbox.storelocator.adapter.Slot_selecter" />
-        <activity android:name="com.mapbox.storelocator.adapter.Trialpage" >
-        </activity>
+        <activity android:name="com.mapbox.storelocator.Dashboard" />
+        <activity android:name="com.mapbox.storelocator.UserdetailsPage" />
+        <activity android:name="com.mapbox.storelocator.Booked_slot_viewer" />
+        <activity android:name="com.mapbox.storelocator.adapter.Trialpage" />
+        <activity android:name="com.mapbox.storelocator.Bookedslots" />
         <activity android:name="com.mapbox.storelocator.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

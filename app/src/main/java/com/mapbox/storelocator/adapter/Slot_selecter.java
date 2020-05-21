@@ -89,6 +89,10 @@ public class Slot_selecter extends AppCompatActivity {
                 reference = FirebaseDatabase.getInstance().getReference().child("Store_names").child(value1);
                 Toast toast = Toast.makeText(getApplicationContext(),value1, Toast.LENGTH_LONG);
                 toast.show();
+                SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+                SharedPreferences.Editor editor = preferences.edit();
+                editor.putString("Slot",slot);
+                editor.commit();
                 reference.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
