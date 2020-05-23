@@ -25,8 +25,8 @@ public class Trialpage extends AppCompatActivity {
         t1=findViewById(R.id.phone_number);
         b=findViewById(R.id.btn);
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
-        String u=preferences.getString("User", null);
-        String p=preferences.getString("Phone", null);
+        String u=preferences.getString("Store", null);
+        String p=preferences.getString("Slot", null);
         t.setText(u);
         t1.setText(p);
         b.setOnClickListener(new View.OnClickListener() {

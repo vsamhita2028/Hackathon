@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\db1992ddaa72d82fd9e26bda74e98b25\design-28.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ba0c9e793805358fd5668570d80bcd9b\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\a55916287b90950dc763a099a6ac5ea8\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -17,9 +17,9 @@ MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\samhita
 MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\39ec3359ee0f0400153a8a861f8cab19\firebase-database-collection-16.0.0\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\c59ab9e76065973e231eb9dbbc9b92ae\play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\f0391e0098d95cda47a165953e0d6d4b\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\89111ba0c3ab366f5b9ac7aa246dfe87\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\71076da603820fdd12d862c530f15d65\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\4f2d6b860f66ea027885bcbf5a80b38a\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\16e68d7e0430f559312bbf3756841076\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\5fc35f180f298050991087250b87c83e\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -50,20 +50,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\samhita vetcha
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\29a2edba0f5484b47572a67b4c9d43ac\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\bb4144c31ecb5950a1ee7568d8762f06\soloader-0.6.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\01118e82fe350a5de34ee6405d79b558\mapbox-android-core-1.3.0\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:3:11-44
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:2:11-69
@@ -88,7 +88,7 @@ MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\samhita ve
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:8:5-40:19
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:8:5-41:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\db1992ddaa72d82fd9e26bda74e98b25\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\db1992ddaa72d82fd9e26bda74e98b25\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\8c7df3eda863728516e25979f09425c8\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
@@ -115,10 +115,8 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\samhita vetcha.LAPTO
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:11:9-47
-	android:roundIcon
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:10:9-53
 	android:allowBackup
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:9:9-36
 	android:theme
@@ -139,32 +137,28 @@ activity#com.mapbox.storelocator.UserdetailsPage
 ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:21:9-22:46
 	android:name
 		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:22:13-44
-activity#com.mapbox.storelocator.Booked_slot_viewer
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:23:9-24:45
+activity#com.mapbox.storelocator.Forcard
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:23:9-26:20
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:24:9-43
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:24:9-32
 activity#com.mapbox.storelocator.adapter.Trialpage
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:25:9-26:58
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:27:9-28:58
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:26:13-46
-activity#com.mapbox.storelocator.Bookedslots
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:27:9-28:42
-	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:28:13-40
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:28:13-46
 activity#com.mapbox.storelocator.MainActivity
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:30:9-39:20
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:31:9-40:20
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:32:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml:36:27-74
 uses-sdk
 INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\Documents\GitHub\Hackathon\app\src\main\AndroidManifest.xml
@@ -195,12 +189,12 @@ MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\samh
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\c59ab9e76065973e231eb9dbbc9b92ae\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\f0391e0098d95cda47a165953e0d6d4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\f0391e0098d95cda47a165953e0d6d4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\89111ba0c3ab366f5b9ac7aa246dfe87\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\89111ba0c3ab366f5b9ac7aa246dfe87\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\71076da603820fdd12d862c530f15d65\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\71076da603820fdd12d862c530f15d65\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\ff0f11945cd1d9e1eeb6715bdc96d085\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\4f2d6b860f66ea027885bcbf5a80b38a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\4f2d6b860f66ea027885bcbf5a80b38a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\samhita vetcha.LAPTOP-BBTLVKUI\.gradle\caches\transforms-2\files-2.1\16e68d7e0430f559312bbf3756841076\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:7:5-9:41

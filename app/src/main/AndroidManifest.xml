@@ -7,9 +7,9 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_chotuicon"
         android:label="@string/final_app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Gray">
         <activity
@@ -21,11 +21,12 @@
         <activity
             android:name=".UserdetailsPage"/>
         <activity
-        android:name=".Booked_slot_viewer"/>
+        android:name=".Forcard">
+
+        </activity>
         <activity
             android:name=".adapter.Trialpage"></activity>
-        <activity
-            android:name=".Bookedslots"/>
+        
 
         <activity
             android:name=".MainActivity">

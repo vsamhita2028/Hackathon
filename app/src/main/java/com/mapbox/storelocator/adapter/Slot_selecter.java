@@ -99,7 +99,7 @@ public class Slot_selecter extends AppCompatActivity {
                         if (Integer.parseInt(dataSnapshot.child(slot).getValue().toString())>5)
                         {
                             radioButton.setVisibility(View.INVISIBLE);
-                            Toast lol = Toast.makeText(getApplicationContext(), "The selected slot is full", Toast.LENGTH_LONG);
+                            Toast lol = Toast.makeText(getApplicationContext(), "Sorry, the maximum limit has been reached. It is dangerous for more people to go there", Toast.LENGTH_LONG);
                             lol.show();
                         }
                         else

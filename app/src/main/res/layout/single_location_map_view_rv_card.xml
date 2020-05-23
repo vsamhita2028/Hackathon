@@ -58,18 +58,18 @@
 
             <ImageView
                 android:id="@+id/background_circle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:src="@drawable/purple_circle"/>
+                android:src="@drawable/purple_circle" />
 
             <ImageView
                 android:id="@+id/emoji"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="0dp"
-                android:src="@drawable/ice_cream_icon"/>
+                android:src="@drawable/ice_cream_icon" />
 
         </FrameLayout>
 
@@ -115,11 +115,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/bariol_bold"
-            android:text="@string/distance"
             android:textSize="@dimen/secondary_text_size"
             app:layout_constraintBottom_toBottomOf="@+id/location_description_tv"
             app:layout_constraintEnd_toEndOf="@+id/distance_num_tv"
-            app:layout_constraintTop_toTopOf="@+id/location_description_tv"/>
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/location_description_tv"
+            app:layout_constraintTop_toTopOf="@+id/location_description_tv"
+            app:layout_constraintVertical_bias="0.0" />
 
         <android.support.constraint.Guideline
             android:id="@+id/guideline10"
@@ -181,30 +183,31 @@
             android:id="@+id/phone_header_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="0dp"
-            android:layout_marginRight="8dp"
             android:fontFamily="@font/bariol_bold"
             android:text="@string/phone"
             android:textSize="@dimen/secondary_text_size"
-            app:layout_constraintEnd_toEndOf="@+id/location_phone_num_tv"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.953"
             app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/hours_header_tv"
-            />
+            app:layout_constraintVertical_bias="0.0" />
 
         <TextView
             android:id="@+id/location_phone_num_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="0dp"
-            android:layout_marginStart="0dp"
             android:fontFamily="@font/bariol_bold"
             android:textColor="@color/black"
             android:textSize="@dimen/secondary_text_size"
             app:layout_constraintBottom_toBottomOf="@+id/location_hours_tv"
             app:layout_constraintEnd_toStartOf="@+id/guideline13"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/phone_header_tv"
-            app:layout_constraintVertical_bias="0.0"
-            tools:text="843-231-8582"/>
+            app:layout_constraintVertical_bias="1.0"
+            tools:text="843-231-8582" />
 
         <android.support.constraint.Guideline
             android:id="@+id/guideline5"
@@ -217,13 +220,14 @@
             android:id="@+id/visit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/buttonback"
             android:text="Schedule"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.485"
+            app:layout_constraintHorizontal_bias="0.452"
             app:layout_constraintStart_toStartOf="@+id/guideline10"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="0.882" />
 
     </android.support.constraint.ConstraintLayout>
 </android.support.v7.widget.CardView>

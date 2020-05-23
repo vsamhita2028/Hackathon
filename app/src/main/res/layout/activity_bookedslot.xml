@@ -2,16 +2,18 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/meowrel"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background">
+   >
 
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerViewslots"
-        android:layout_height="match_parent"
         android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/downbackground"
         android:padding="4dp"
-        android:scrollbars="vertical"/>
+        android:scrollbars="vertical" />
 
 </RelativeLayout>

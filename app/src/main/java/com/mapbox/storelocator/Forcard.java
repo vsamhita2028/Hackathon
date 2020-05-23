@@ -17,39 +17,50 @@ public class Forcard extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
-    ArrayList<ExampleItem> exampleList;
-    public Forcard(){
+    int i=0;
+
+    private Button btn;
+    private ArrayList<ExampleItem> exampleList;
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bookedslot);
-        exampleList = new ArrayList<>();
-        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
-        String u=preferences.getString("User", null);
-        String p=preferences.getString("Store", null);
-        exampleList.add(new ExampleItem( u, p));
+        createExampleList();
+        buildRecyclerView();
+        InsertItems();
+
+        /*btn = findViewById(R.id.dashback);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent ine = new Intent(getApplicationContext(), Dashboard.class);
+                startActivity(ine);
+            }
+        });*/
+
+
 
     }
-    public void  setvalues(){
+    public void InsertItems(){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+        String u=preferences.getString("Slot", null);
+        String p=preferences.getString("Store", null);
+        exampleList.add(new ExampleItem(p,u));
+    }
+
+    public void createExampleList(){
+
+        exampleList = new ArrayList<>();
+        i=exampleList.size();
+
+
+
+    }
+    public void buildRecyclerView(){
         mRecyclerView = findViewById(R.id.recyclerViewslots);
         mRecyclerView.setHasFixedSize(true);
         mLayoutManager = new LinearLayoutManager(getApplicationContext());
         mAdapter = new ExampleAdapter(exampleList);
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setAdapter(mAdapter);
-    }
-
-    private Button btn;
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.cardview_slotbooked);
-         btn = findViewById(R.id.dashback);
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent ine = new Intent(getApplicationContext(), MapActivity.class);
-                startActivity(ine);
-            }
-        });
-
-
-
     }
 }

@@ -2,7 +2,11 @@ package com.mapbox.storelocator.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.Matrix;
+import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
+import android.graphics.drawable.ScaleDrawable;
 import android.support.constraint.ConstraintLayout;
 import android.support.v4.content.res.ResourcesCompat;
 import android.support.v7.widget.CardView;
@@ -18,6 +22,8 @@ import com.mapbox.storelocator.R;
 import com.mapbox.storelocator.model.IndividualLocation;
 
 import java.util.List;
+
+
 
 /**
  * RecyclerView adapter to display a list of location cards on top of the map
@@ -87,11 +93,11 @@ public class LocationRecyclerViewAdapter extends
 
     switch (selectedTheme) {
       case R.style.AppTheme_Blue:
-        emojiForCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.ice_cream_icon, null);
-        backgroundCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.blue_circle, null);
-        setColors(R.color.colorPrimary_blue, R.color.white, R.color.white, R.color.cardHourAndPhoneTextColor_blue,
-          R.color.cardHourAndPhoneHeaderTextColor_blue, R.color.cardHourAndPhoneTextColor_blue,
-          R.color.cardHourAndPhoneHeaderTextColor_blue, R.color.white, R.color.white);
+        emojiForCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.online, null);
+        //backgroundCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.blue_circle, null);
+        setColors(R.color.colorPrimary_purple, R.color.white, R.color.white, R.color.colorPrimary_purple,
+          R.color.colorPrimary_purple, R.color.colorPrimary_purple,
+          R.color.colorPrimary_purple, R.color.white, R.color.white);
         setAlphas(card, .41f, .48f, 100f, .48f,
           100f,
           .41f);
@@ -99,6 +105,10 @@ public class LocationRecyclerViewAdapter extends
 
     }
 
+
+
+    emojiForCircle.setBounds(0, 0, 75, 65);
+    //emojiForCircle.setBounds(50, 50, 50, 50);;
     card.emojiImageView.setImageDrawable(emojiForCircle);
     card.constraintUpperColorSection.setBackgroundColor(upperCardSectionColor);
     card.backgroundCircleImageView.setImageDrawable(backgroundCircle);

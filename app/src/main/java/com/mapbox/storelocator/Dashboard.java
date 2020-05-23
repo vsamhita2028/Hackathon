@@ -2,6 +2,7 @@ package com.mapbox.storelocator;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
@@ -49,31 +50,18 @@ public class Dashboard extends AppCompatActivity {
         detail.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-               // Forcard bla =new Forcard();
-                //bla.setvalues();
-                setContentView(R.layout.activity_bookedslot);
-                ArrayList<ExampleItem> exampleList = new ArrayList<>();
-                SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
-                String u=preferences.getString("Store", null);
-                String p=preferences.getString("Slot", null);
-                exampleList.add(new ExampleItem( u, p));
-
-                mRecyclerView = findViewById(R.id.recyclerViewslots);
-                mRecyclerView.setHasFixedSize(true);
-                mLayoutManager = new LinearLayoutManager(getApplicationContext());
-                mAdapter = new ExampleAdapter(exampleList);
-                mRecyclerView.setLayoutManager(mLayoutManager);
-                mRecyclerView.setAdapter(mAdapter);
-
+                Intent in = new Intent(getApplicationContext(), Forcard.class);
+                startActivity(in);
             }
         });
-        /*chatbot.setOnClickListener(new View.OnClickListener() {
+        chatbot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), Chatbot.class);
+                String url="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=166eee87-3056-4f86-a22e-886d89f7c0ff&serviceInstanceID=8ad0f045-0fa9-42a3-aed1-41da902117c3";
+                Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse(url));
                 startActivity(intent);
             }
-        });*/
+        });
 
     }
 }

@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 public class Fragment2 extends Fragment {
@@ -53,6 +54,8 @@ public class Fragment2 extends Fragment {
                 editor.putString("User",user.getText().toString());
                 editor.putString("Phone",phone.getText().toString());
                 editor.commit();
+                Toast.makeText(getActivity(), "Resitration successful", Toast.LENGTH_SHORT).show();
+
                 /*SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = sharedPref.edit();
                 editor.putString("User",user.getText().toString());

@@ -213,7 +213,7 @@ public class MapActivity extends AppCompatActivity implements
 
               mapboxMap.addOnMapClickListener(MapActivity.this);
 
-              Toast.makeText(MapActivity.this, "Click on a card", Toast.LENGTH_SHORT).show();
+              Toast.makeText(MapActivity.this, "Double Click on a card", Toast.LENGTH_SHORT).show();
 
               // Show 3d buildings if the blue theme is being used
               if (customThemeManager.getNavigationLineColor() == R.color.navigationRouteLine_blue) {
@@ -672,8 +672,8 @@ public class MapActivity extends AppCompatActivity implements
         case R.style.AppTheme_Blue:
           mapStyle = getString(R.string.blue_map_style);
           navigationLineColor = getResources().getColor(R.color.navigationRouteLine_blue);
-          unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_unselected_ice_cream);
-          selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_selected_ice_cream);
+          unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.onlinechotuback);
+          selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.onlinechotuback);
           mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_user_location);
           break;
         case R.style.AppTheme_Purple:

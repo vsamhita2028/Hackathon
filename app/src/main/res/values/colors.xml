@@ -2,7 +2,7 @@
 <resources>
 
     // Purple theme's colors
-    <color name="colorPrimary_purple">#A35BCD</color>
+    <color name="colorPrimary_purple">#FA6C6C</color>
     <color name="colorPrimaryDark_purple">#5D39BA</color>
     <color name="colorAccent_purple">#C7A8D9</color>
     <color name="navigationRouteLine_purple">#987DDF</color>

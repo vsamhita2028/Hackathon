@@ -20,7 +20,7 @@ public class IndividualLocation {
   public IndividualLocation(String name, String address, String hours, String phoneNum, LatLng location) {
     this.name = name;
     this.address = address;
-    this.hours = hours;
+    this.hours = "10:00-19:00";
     this.phoneNum = phoneNum;
     this.location = location;
   }

@@ -7,21 +7,21 @@
 
     <TextView
         android:id="@+id/str_name"
-        android:layout_width="401dp"
-        android:layout_height="54dp"
+        android:layout_width="404dp"
+        android:layout_height="67dp"
         android:background="@drawable/downbackground"
-        android:textSize="24sp"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.133"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.023" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <RelativeLayout
         android:id="@+id/rel"
         android:layout_width="401dp"
-        android:layout_height="631dp"
+        android:layout_height="644dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.151"
@@ -31,11 +31,11 @@
 
         <Button
             android:id="@+id/sammy"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="106dp"
+            android:layout_height="38dp"
             android:layout_marginLeft="290dp"
             android:layout_marginTop="590dp"
-            android:background="@drawable/downbackground"
+            android:background="@drawable/buttonback"
             android:text="submit" />
     </RelativeLayout>
 
